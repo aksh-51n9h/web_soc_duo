@@ -2,6 +2,4 @@
 
 WebSocket application
 
-<p align="center">
-  <img src="https://www.youtube.com/watch?v=nEAIssDltTo&feature=youtu.be" width="480" title="hover text">
-</p>
+[![Video](https://i9.ytimg.com/vi/nEAIssDltTo/mq1.jpg?sqp=CLimvvkF&rs=AOn4CLBrYuZfWuvSer45dL9nXbykQ41xMQ)](https://www.youtube.com/watch?v=nEAIssDltTo&feature=youtu.be)
